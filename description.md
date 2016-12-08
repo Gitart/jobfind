@@ -1,4 +1,4 @@
-
+# Description
 
 ## Vacation
 * Job Description / Job summary
@@ -9,3 +9,18 @@
 * You Role
 * Qulification
 
+## Additional
+* Company segment
+* Title
+* Location
+* Company
+* Employee status : Regular
+* Employee type : (Full-time, Part-time, Contracts, Third Party)
+* Telecomunicate 
+* Job level: Individual Contributior
+* Shift : Day jobs
+* Travel : No
+* Shedule : Full-time
+* Unpositing Date : Ongoing
+* Last Modified: 11/11/2016 12:51:01 AM
+* Job Industry: Cox Automotive
