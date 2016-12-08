@@ -42,6 +42,12 @@
 * Last Modified: 11/11/2016 12:51:01 AM
 * Job Industry: Cox Automotive
 
+## Items Vacation
+* Position Information
+* Minimum Requirement
+* Preferred Qualifications
+* Additional Information
+
 
 ## Resume Card
 * ID 3049587BR
