@@ -14,8 +14,12 @@
 * Mission
 
 ## Vacation
-* Job Description / Job summary
-* Requaired Education /Expirence :
+* Job Description 
+* Job summary
+* Category
+* Department
+* Requaired Education 
+* Expirence 
 * Responsibilites
 * Company Information
 * Technology we use
@@ -37,3 +41,26 @@
 * Unpositing Date : Ongoing
 * Last Modified: 11/11/2016 12:51:01 AM
 * Job Industry: Cox Automotive
+
+
+## Resume Card
+* ID 3049587BR
+* Job Title
+* Estimated Salary
+* Position
+* Position Category
+* Date Publication
+* Posted 
+
+* Major responsibilites
+* Qualification
+* Education
+* Expirence
+* Benefits
+
+
+
+
+
+
+
