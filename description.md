@@ -51,16 +51,8 @@
 * Position Category
 * Date Publication
 * Posted 
-
 * Major responsibilites
 * Qualification
 * Education
 * Expirence
 * Benefits
-
-
-
-
-
-
-
