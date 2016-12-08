@@ -1,5 +1,18 @@
 # Description
 
+## Company
+* Company Name
+* Area
+* Address
+* Telephone HR
+* Website
+* Size employee
+* Revenue
+* Headguarters 
+* Industry : Media
+* Competitors
+* Mission
+
 ## Vacation
 * Job Description / Job summary
 * Requaired Education /Expirence :
