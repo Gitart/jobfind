@@ -13,7 +13,7 @@
 * Competitors
 * Mission
 
-## Vacation
+### Vacation
 * Job Description 
 * Job summary
 * Category
@@ -26,7 +26,7 @@
 * You Role
 * Qulification
 
-## Additional
+### Additional
 * Company segment
 * Title
 * Location
