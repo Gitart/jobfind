@@ -2,7 +2,7 @@
 
 
 ## Company Info
-* Website:	www.nbcuni.com
+* Website:	www.yyyy.com
 * Headquarters:	New York, NY
 * Size:	10000+ employees
 * Founded:	1906
@@ -10,7 +10,7 @@
 * Industry:	Media
 * Revenue:	$10+ billion (USD) per year
 * Competitors	Unknown
-* NBCUniversal is one of the world’s leading media and entertainment companies in the development, production and marketing of entertainment, news and information to a global audience. NBCUniversal owns and operates a valuable portfolio of news and entertainment 
+* Universal is one of the world’s leading media and entertainment companies in the development, production and marketing of entertainment, news and information to a global audience. NBCUniversal owns and operates a valuable portfolio of news and entertainment. 
 * Mission: We are in business to create and deliver content so compelling it entertains, informs and shapes our world.
 
 
